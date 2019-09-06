@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw_images</folder>
+	<filename>cows_images_41.jpg</filename>
+	<path>/home/nbh/Desktop/cow_detection/cow_detection/raw_images/cows_images_41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>4</ymin>
+			<xmax>257</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
