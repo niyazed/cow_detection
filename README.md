@@ -6,7 +6,7 @@
 Like Racoon and Kangaroo, here comes the Cow detector using Faster RCNN.
 
 # Model
-Download the model from here - [http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz](http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz) 
+Download the model from here - [Link](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models) 
 
 ##### And also included my inference graph for testing purpose - [Link](https://github.com/niyazed/cow_detection/tree/master/inference_graph)
 
